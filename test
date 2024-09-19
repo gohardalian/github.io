@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Website</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f4f4f4;
+        }
+        .container {
+            text-align: center;
+        }
+        h1 {
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Welcome to My Sample Website</h1>
+        <p>This is a very basic HTML page with an embedded script.</p>
+        <script data-id="7yhz4k" data-token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6Ijd5aHo0ayIsImhlaWdodCI6ImF1dG8iLCJ0eXBlIjoiZG9tYWluLXNjYW5uZXIiLCJ3aWR0aCI6IjEwMCUiLCJib3hfc2hhZG93IjoiMCAwIDEwcHggIzAwMDAwMDI2IiwiYm9yZGVyX3JhZGl1cyI6IjhweCIsImF1dG9pbml0IjoidHJ1ZSIsIm9wdGlvbnMiOnsic3R5bGVzIjp7InRoZW1lIjp7InRpdGxlQ29sb3IiOiIjMUEzMzgwIiwicGFyYWdyYXBoQ29sb3IiOiIjNUE1RTcyIiwiYnV0dG9uc0NvbG9yIjoiIzMzNjZGRiIsInNoYWRvd0NvbG9yIjoiIzMzNjZGRjIwIiwic2hhZG93Q2hlY2siOiJ0cnVlIn19LCJjb250ZW50Ijp7InRpdGxlIjoiRG9tYWluIFNjYW5uZXIiLCJwYXJhZ3JhcGgiOiIiLCJidXR0b25fMSI6IlNjYW4gTm93IiwiYnV0dG9uXzIiOiJJbmNyZWFzZSBTY29yZSIsInJlZGlyZWN0X3VybCI6IiIsImRlY2F0aXZlX3dpZGdldF9saW5rIjoiZmFsc2UifSwiZWRpdGlvbiI6Im1zcCIsImJpbWlfYWN0aXZhdGlvbiI6ImZhbHNlIiwib3JnYW5pemF0aW9uIjp7Im9iamVjdElkIjoib3JnXzY1MWE2NmRhYjUyNmQyMjgyYjRkNTk1MiIsImRvbWFpbiI6ImdvaGFyLmRhbHlhbi5naXRodWIuaW8ifX0sImVtYmVkX3ZlcnNpb24iOiIxLjAuMCIsImlhdCI6MTcyNjc1MjA2OX0.FkMI144B2jf0m4s4JnUsnCrPa1MfzUVYUrLvtrKIbUw" src="https://easydmarc.dev/tools/domain-scanner/embedjs/1.0.0"></script>
+    </div>
+</body>
+</html>
